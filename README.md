@@ -1,6 +1,6 @@
 # DNN Platform Releases Archive
 
-This repository contains all previous DNN releases from 07.00.00 up to 07.02.00.
+This repository contains all previous DNN releases from 07.00.00 up to 07.02.00 in addition to 07.04.01 and 07.04.02 which are not available in GitHub releases.
 
 All Releases:
 ---------------
