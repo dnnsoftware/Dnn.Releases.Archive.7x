@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.vsi filter=lfs diff=lfs merge=lfs -text
